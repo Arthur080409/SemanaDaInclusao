@@ -8,7 +8,7 @@ export default function SemanaInclusao() {
   return (
     <View style={styles.container}>
       <Titulo texto={'Semana da Inclusão de pessoa com Deficiência'} />
-      <Sub texto={'oi'}/>
+      <Sub texto={'como incluir'}/>
     </View>
     
   );
